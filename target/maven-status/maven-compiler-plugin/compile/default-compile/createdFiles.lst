@@ -1,0 +1,12 @@
+com\batch\configuration\ItemProcessorConfiguration$1.class
+com\batch\service\CronJobService.class
+com\batch\repo\ContractRepo.class
+com\batch\controller\BatchController.class
+com\batch\SpringBatchExampleApplication.class
+com\batch\entity\Contract.class
+com\batch\entity\ContractHistory.class
+com\batch\configuration\BatchConfigurer.class
+com\batch\configuration\ItemReaderConfiguration.class
+com\batch\configuration\ItemProcessorConfiguration.class
+com\batch\configuration\ItemWriterConfiguration.class
+com\batch\configuration\ItemWriterConfiguration$1.class
